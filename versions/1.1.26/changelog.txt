@@ -1,0 +1,10 @@
+# Version 1.1.26
+## Updated:
+- [ETF] Entity Texture Features 
+- Fabric Language Kotlin
+## Added:
+- Happiness (is a) Warm Gun
+- Modpack Update Checker
+- Simply More Swords
+## Removed:
+- MCRGB
