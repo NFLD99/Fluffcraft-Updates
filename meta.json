@@ -1,16 +1,26 @@
 {
-  "schemaVersion": 1,
-  "hotfixesFormat": null,
-  "versions": [
-  {
-        "id": "1.1.25",
-        "releasedAt": 1724542527,
-        "promotions": {
-            "downloads": {
-                "curseforge": "https://www.curseforge.com/minecraft/modpacks/fluffcraft",
-                "generic": "https://discord.gg/XYcxavNmfU"
+    "schemaVersion": 1,
+    "hotfixesFormat": null,
+    "versions": [
+        {
+            "id": "1.1.25",
+            "releasedAt": 1724542527,
+            "promotions": {
+                "downloads": {
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/fluffcraft",
+                    "generic": "https://discord.gg/XYcxavNmfU"
+                }
+            }
+        },
+        {
+            "id": "1.1.26",
+            "releasedAt": 1724613290,
+            "promotions": {
+                "downloads": {
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/fluffcraft",
+                    "discord": "https://discord.gg/XYcxavNmfU"
+                }
             }
         }
-    }
-]
+    ]
 }
