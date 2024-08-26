@@ -1,0 +1,15 @@
+# Version 1.1.27
+## Updated:
+- Cobblemon Icons BCG [CI]
+## Added:
+- Additional RPG Jewelry
+- Archon
+- AzureLib Armor
+- Extra RPG Attributes
+- More RPG Library
+- playerAnimator
+- Spell Engine
+- Spellblades and Such
+- Voice Chat Interaction
+## Removed:
+- Boss Whackers
