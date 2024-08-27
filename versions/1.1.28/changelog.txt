@@ -1,0 +1,33 @@
+# Version 1.1.28
+## Updated:
+- [ETF] Entity Texture Features
+- CraftedCore
+- Fast IP Ping
+- Jade
+- Moonlight Lib
+- MVS - Moog's Voyager Structures
+- Puzzles Lib
+- SeasonHUD 
+- Spellblades and Such (Spell Engine)
+- SuperMartijn642's Core Lib
+- *Updated to Fabric 0.16.3*
+## Added:
+- ATi Structures
+- Biolith
+- Dawn Of Time - Builder Edition
+- IceAndFire Fabric
+- Jupiter
+- Uranus
+- World Play Time
+## Removed:
+- Animon Voices
+- Brutal Bosses - Custom Bosses
+- Cobbepedia
+- Cobblemon
+- Cobblemon Capture XP
+- Cobblemon Icons BCG
+- Cobblemon Icons v2.6
+- Cobblemon Integrations
+- Cobblemon Spawn Notifications
+- Link's Font
+- Marium's Soulslike Weaponry
