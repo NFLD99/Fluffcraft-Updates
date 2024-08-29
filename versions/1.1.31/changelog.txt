@@ -1,0 +1,12 @@
+# Version 1.1.31
+## Added:
+- Biome Music
+- Lios Overhauled Villages
+- Medieval Buildings - New Structures!
+- Medieval Buildings [End Edition]
+- Medieval Music
+- MidnightLib
+- This Rocks!
+## Updated:
+- [EMF] Entity Model Features
+- GeckoLib
