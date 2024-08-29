@@ -1,0 +1,10 @@
+# Version 1.1.32
+## Added:
+- Believe Mod
+- Iceberg 
+- Immersive Melodies
+- Medieval Enemies
+- Medieval Origins Revival
+- Merchant Markers
+- More Axolotl Variants API
+- More Axolotl Variants Mod
