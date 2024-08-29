@@ -1,0 +1,9 @@
+# Version 1.1.13
+## Updated:
+- Essential
+- ModernFix
+- Moonlight
+## Added:
+- Connectible Chains [Fabric]
+## Removed: 
+- MrCrayfish's Furniture Mod: Refurbished [it caused crashes when opening some things]

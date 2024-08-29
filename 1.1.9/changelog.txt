@@ -1,2 +1,0 @@
-# Version 1.1.9
-Bug Fixes

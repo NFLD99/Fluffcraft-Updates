@@ -1,0 +1,16 @@
+# Version 1.1.24
+## Updated:
+- Ranged Weapon API
+- Rhino
+- WATERFrAMES: Multimedia Displays
+## Added:
+- Ad Astra
+- AttributeFix
+- AzureLib
+- Brutal Bosses - Custom Bosses
+- Deeper and Darker
+- Marium's Soulslike Weaponry
+- Mobs of Mythology
+- Projectile Damage Attribute
+- Ribbits
+- SmartBrainLib

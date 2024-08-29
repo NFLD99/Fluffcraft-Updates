@@ -1,2 +1,0 @@
-# Version 1.1.4
-Added Configurable Furnace Burn Time

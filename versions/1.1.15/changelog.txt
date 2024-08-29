@@ -1,0 +1,9 @@
+# Version 1.1.15
+## Added:
+- Valentine's Blessing
+- Yung Structures Addon for Loot Integrations
+- Loot Integrations
+- Cupboard
+- Castle Dungeons
+- Underground
+- Macaw's Holidays

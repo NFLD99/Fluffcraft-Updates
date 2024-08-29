@@ -1,3 +1,0 @@
-# Version 1.1.23
-## Added:
-- Server Files! [i forgot to do configs in the last one so this fixes client stuff too!]
