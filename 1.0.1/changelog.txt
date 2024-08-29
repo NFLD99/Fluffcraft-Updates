@@ -1,0 +1,2 @@
+# Version 1.0.1
+removed: Litematica Printer CobbleTowns [v1.0.1] ExpCandyXL [custom crafting] fast leaf decay v2.0.10 (MC 1.20-1.20.6) MasterBall [custom crafting] spectator night vision v1.1.7 (MC 1.20-1.20.6)

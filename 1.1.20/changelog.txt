@@ -1,0 +1,26 @@
+# Version 1.1.20
+## Updated:
+- Configs!
+- Accessories
+- Better Archeology
+- Moonlight Lib
+- Not Enough Animations
+- Oh The Bioms We've Gone
+- Rhino
+- Skin Layers 3D
+- Trinkets Compat Layer for Accessories
+- [EMF] Entity Model Features
+- [ETF] Entity Texture Features
+- [Let's Do] Bakery - Farm&Charm Compat
+- [Let's Do] Brewery - Farm&Charm Compat
+- [Let's Do] Camping
+- [Let's Do] Candlelight - Farm&Charm compat
+- [Let's Do] Farm & Charm
+- Woodwalkers
+## Added:
+- Fetzi's Asian Decoration
+- e4mc
+- Zoomify
+Removed:
+- Essential Mod
+- Packet Fixer

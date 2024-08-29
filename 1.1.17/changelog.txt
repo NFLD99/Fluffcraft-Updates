@@ -1,0 +1,29 @@
+# Version 1.1.17
+## Updated:
+- Balm
+- Chat Heads
+- Cobblemon Icons
+- Collective
+- Crafted Core
+- CraterLib
+- M.R.U
+- MDM
+- Medieval Deco
+- Moonlight Lib
+- Oh The Biomes We've Gone
+- Oh The Trees You'll Grow
+- REI
+- Vinery
+- XPlus Autofish
+## Added:
+- Accessories
+- Accessories Trinkets Compatibility Layer
+- Benched
+- Deepslate
+- Eco Stack Manager
+- Mossier Deepslate
+- Notebook
+- Packet Fixer
+- Re:Deco
+- Too Fast
+- UsefulFood Reborn
