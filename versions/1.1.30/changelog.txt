@@ -1,0 +1,9 @@
+# Version 1.1.30
+## Updated:
+- Accessories
+- Jewelry (RPG Series)
+- SeasonHUD (Fabric)
+- Spell Engine
+- Spell Power Attributes [Fabric]
+- Spellblades and Such (Spell Engine)
+- Trinkets Compat Layer for Accessories
