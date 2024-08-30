@@ -1,0 +1,9 @@
+# Version 1.1.33
+## Added:
+- Dis-Enchanting Table
+- Dramatic Doors
+- Expanded Storage
+- Inventory Sorting
+- MonoLib
+## Removed:
+- Medieval Origins Revival [Broke FTBQuests. caused Kicks]
