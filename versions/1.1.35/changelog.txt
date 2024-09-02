@@ -1,0 +1,19 @@
+# Version 1.1.35
+## Updated:
+- Dis-Enchanting Table
+- Extra RPG Attributes
+- IceAndFire Fabric
+- Jupiter
+- MCPitanLib
+- More RPG Library
+- Oh The Biomes We've Gone
+- Spellblades and Such
+## Added
+- Achievements Optimizer
+- Nyctophobia
+## Removed
+- Fabric Seasons
+- Fabric Seasons: Croptopia Compat
+- Fabric Seasons: Extras
+- Fabric Seasons: Terralith Compat
+- SeasonHUD-Fabric
