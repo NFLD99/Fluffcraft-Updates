@@ -1,12 +1,11 @@
 # Version 1.1.25
-## Updated:
-- Jade
-- MDM
-- ModernFix
-- Resourceful Lib
 ## Added:
 - Decorative Blocks
 - Excessive Building
 - MCRGB - A Colour Picker for Blocks
 - Waffle's Moss
-## Removed:
+## Updated:
+- Jade
+- MDM
+- ModernFix
+- Resourceful Lib

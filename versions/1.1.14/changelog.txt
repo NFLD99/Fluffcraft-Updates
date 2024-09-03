@@ -1,20 +1,20 @@
 # Version 1.1.14
+## Added:
+- Jewelry
+- Lavender API
+- Magic Vibe Decorations
+- More Jewels
+- More Spell Attributes
+- Ranged Weapon API
+- Spell Power Attributes
+- Structure Pool API
+- Things
+- TrimsEffects
+## Removed:
+- Cobblemon Armor Sets
 ## Updated:
+- Blooming Nature
 - Living Things
 - M.R.U
 - Trade Cycling
 - WATERMeDIA
-- Blooming Nature
-## Added:
-- Things
-- Lavender API
-- More Jewels
-- Jewelry
-- More Spell Attributes
-- Spell Power Attributes
-- Ranged Weapon API
-- Structure Pool API
-- Magic Vibe Decorations
-- TrimsEffects
-## Removed:
-- Cobblemon Armor Sets

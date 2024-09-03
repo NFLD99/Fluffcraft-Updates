@@ -1,15 +1,4 @@
 # Version 1.1.19
-## Updated:
-- Balm
-- Cobblemon Quests
-- CorgiLib
-- Essential Mod
-- Knight Quest
-- M.R.U
-- Macaw's Fences - Oh The Biomes You'll Go / Oh The Biomes We've Gone
-- Moonlight
-- Simply Swords
-- Trims Effects
 ## Added:
 - Bartering Station
 - Baubley Heart Canisters
@@ -27,3 +16,14 @@
 - NiceMod - New blocks
 - Nyf's Banner Patterns
 - Random Bone Meal Flowers
+## Updated:
+- Balm
+- Cobblemon Quests
+- CorgiLib
+- Essential Mod
+- Knight Quest
+- M.R.U
+- Macaw's Fences - Oh The Biomes You'll Go / Oh The Biomes We've Gone
+- Moonlight
+- Simply Swords
+- Trims Effects

@@ -1,6 +1,4 @@
 # Version 1.1.27
-## Updated:
-- Cobblemon Icons BCG [CI]
 ## Added:
 - Additional RPG Jewelry
 - Archon
@@ -13,3 +11,5 @@
 - Voice Chat Interaction
 ## Removed:
 - Boss Whackers
+## Updated:
+- Cobblemon Icons BCG [CI]

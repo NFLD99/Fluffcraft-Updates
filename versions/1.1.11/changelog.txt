@@ -1,4 +1,23 @@
 # Version 1.1.11
-Added: Many-More-Ores FTB XMod Compat FTB Backups 2 FTB Quests Optimizer Global Datapacks Enchantment Reveal Sorted Enchantments
-
-Updated: AE2 Chat Heads Cobblemon Icons Collective CraterLib Fabric Language Kotlin Moonlight Lib Oh The Biomes We've Gone Simple Voice Chat Traveler's Backpack WATERMeDIA [Let's Do] Blooming Nature crafted-core
+## Added: 
+- Enchantment Reveal 
+- FTB Backups 2 
+- FTB Quests Optimizer 
+- FTB XMod Compat 
+- Global Datapacks 
+- Many-More-Ores 
+- Sorted Enchantments
+## Updated: 
+- [Let's Do] Blooming Nature 
+- AE2 
+- Chat Heads 
+- Cobblemon Icons 
+- Collective 
+- crafted-core
+- CraterLib 
+- Fabric Language Kotlin 
+- Moonlight Lib 
+- Oh The Biomes We've Gone 
+- Simple Voice Chat 
+- Traveler's Backpack 
+- WATERMeDIA 

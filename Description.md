@@ -8,6 +8,9 @@ Fluffcraft Showcase Video: ![Fluffcraft Showcase Video](https://www.youtube.com/
 # 
 Some highlights we'd like to share:
 # 
+- **Quests:**
+  - Complete quests to earn rewards such as swords, iceandfire dragon eggs and jewelry to buff yourself!
+# 
 - **New Powerful Bosses:**
   - Discover new powerful bosses from mods like Bosses of Mass Destruction, Brutal Bosses Custom Bosses, and Mutant Monsters.
 # 
@@ -52,7 +55,7 @@ Some highlights we'd like to share:
 # 
 - **Origins:**
   - Customize your gameplay with unique buffs and debuffs to keep things fresh.
-
+#
 - **Simple Voice Chat:**
   - Enjoy fun and interesting conversations with your friends, enhanced by sound physics for a more realistic experience.
 # 

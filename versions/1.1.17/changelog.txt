@@ -1,4 +1,16 @@
 # Version 1.1.17
+## Added:
+- Accessories
+- Accessories Trinkets Compatibility Layer
+- Benched
+- Deepslate
+- Eco Stack Manager
+- Mossier Deepslate
+- Notebook
+- Packet Fixer
+- Re:Deco
+- Too Fast
+- UsefulFood Reborn
 ## Updated:
 - Balm
 - Chat Heads
@@ -15,15 +27,3 @@
 - REI
 - Vinery
 - XPlus Autofish
-## Added:
-- Accessories
-- Accessories Trinkets Compatibility Layer
-- Benched
-- Deepslate
-- Eco Stack Manager
-- Mossier Deepslate
-- Notebook
-- Packet Fixer
-- Re:Deco
-- Too Fast
-- UsefulFood Reborn

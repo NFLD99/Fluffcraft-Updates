@@ -1,4 +1,13 @@
 # Version 1.1.35
+## Added:
+- Achievements Optimizer
+- Nyctophobia
+## Removed:
+- Fabric Seasons
+- Fabric Seasons: Croptopia Compat
+- Fabric Seasons: Extras
+- Fabric Seasons: Terralith Compat
+- SeasonHUD-Fabric
 ## Updated:
 - Dis-Enchanting Table
 - Extra RPG Attributes
@@ -8,12 +17,3 @@
 - More RPG Library
 - Oh The Biomes We've Gone
 - Spellblades and Such
-## Added
-- Achievements Optimizer
-- Nyctophobia
-## Removed
-- Fabric Seasons
-- Fabric Seasons: Croptopia Compat
-- Fabric Seasons: Extras
-- Fabric Seasons: Terralith Compat
-- SeasonHUD-Fabric

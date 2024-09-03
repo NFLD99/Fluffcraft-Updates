@@ -1,8 +1,4 @@
 # Version 1.1.24
-## Updated:
-- Ranged Weapon API
-- Rhino
-- WATERFrAMES: Multimedia Displays
 ## Added:
 - Ad Astra
 - AttributeFix
@@ -14,3 +10,7 @@
 - Projectile Damage Attribute
 - Ribbits
 - SmartBrainLib
+## Updated:
+- Ranged Weapon API
+- Rhino
+- WATERFrAMES: Multimedia Displays

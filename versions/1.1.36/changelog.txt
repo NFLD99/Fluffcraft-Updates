@@ -1,0 +1,11 @@
+# Version 1.1.36
+## Added:
+- Inventory Sorting [in 1.1.33 i forgot to add it properly]
+## Removed:
+- FTB Quests Optimizer
+## Updated:
+- [EMF] Entity Model Features
+- IceAndFire
+- Knight Quest
+- MCPitanLib 
+- Moving Elevators

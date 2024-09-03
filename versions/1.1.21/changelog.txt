@@ -1,7 +1,7 @@
 # Version 1.1.21
-## Updated:
-- Eco Stack Manager
 ## Added:
 - World Host
 ## Removed:
 - e4mc
+## Updated:
+- Eco Stack Manager

@@ -1,6 +1,4 @@
 # Version 1.1.22
-## Updated:
-- Accessories
 ## Added:
 - Server Files!
 - Updating World Icon
@@ -9,3 +7,5 @@
 - Notebook
 - Witch Mobility
 - World Host
+## Updated:
+- Accessories
