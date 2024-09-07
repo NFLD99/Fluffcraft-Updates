@@ -9,10 +9,16 @@ Fluffcraft Showcase Video: ![Fluffcraft Showcase Video](https://www.youtube.com/
 Some highlights we'd like to share:
 # 
 - **Quests:**
-  - Complete quests to earn rewards such as swords, iceandfire dragon eggs and jewelry to buff yourself!
+  - Complete quests to earn rewards such as swords, dragon eggs from Ice and Fire, jewelry, and enchantments to buff yourself!
+#
+- **In-game Shop:**
+  - Buy things like armor, weapons, enchantments, food, and more using coins crafted from Silver and Gold! All from the quests menu.
 # 
+- **New Enchantments:**
+  - Earn new enchantments through quests or discover them on your own in your experience. Here are some new enchantments you might want to check out: Paralysis, Spell Infinity, Rubys' Fire, End Veil [Helmet].
+#
 - **New Powerful Bosses:**
-  - Discover new powerful bosses from mods like Bosses of Mass Destruction, Brutal Bosses Custom Bosses, and Mutant Monsters.
+  - Discover new powerful bosses from mods like Bosses of Mass Destruction, The Graveyard, and Mutant Monsters.
 # 
 - **Over 60 Decor Mods:**
   - Design and build your perfect base.
