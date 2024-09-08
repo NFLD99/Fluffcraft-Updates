@@ -27,13 +27,13 @@ Some highlights we'd like to share:
   - Organize your storage and improve travel with tech mods like AE2, Kibe, Dark Utilities, Immersive Aircraft, and Moving Elevators.
 # 
 - **New Creatures:**
-  - Discover creatures from mods like Naturalist, Living Things, Mobs of Mythology, Reboot LovelyRobot, and Monsters & Girls.
+  - Discover creatures from mods like Naturalist, Living Things, Mobs of Mythology, Reboot LovelyRobot, Fairy Factions Revived and Monsters & Girls.
 # 
 - **IceAndFire:**
   - Experience a fantasy like world filled with dragons, fairies, sirens, sea serpent's and more creatures to find, use lore from pages found in structures where dragons may be lurking to discover more about these creatures
 # 
 - **Cosmetics with Unique Effects:**
-  - Add flair with cosmetics from the Jewelry RPG Series, More Jewels More Magic Series, Accessories, and Things, each offering unique effects.
+  - Add flair with cosmetics from the Jewelry RPG Series, More Jewels More Magic Series, TrimsEffects, Accessories, and Things, each offering unique effects.
 # 
 - **New World Features:**
   - Encounter new flowers, trees, villages, biomes, structures, and dungeons with mods like Explorify, When Dungeons Arise, Terralith, and Oh The Biomes We've Gone.
@@ -43,9 +43,6 @@ Some highlights we'd like to share:
 # 
 - **New Armor, Tools, and Weapons:**
   - Discover new gear from mods like Dragonloot, Immersive Armors, Many More Ores, Simply Swords, and more.
-# 
-- **Armor Trims with Effects:**
-  - Enhance your gear with armor trims that give special effects, thanks to the TrimsEffects mod.
 # 
 - **New Food & Drinks:**
   - Enjoy a variety of new delicious food and drinks from mods like Foodables, Travel Friendly Food, Better McDonald's Mod, 3D Placeable Food, and many others.
@@ -64,6 +61,9 @@ Some highlights we'd like to share:
 #
 - **Simple Voice Chat:**
   - Enjoy fun and interesting conversations with your friends, enhanced by sound physics for a more realistic experience.
+# 
+- **Pregen:**
+  - Pregen your world to reduce chunk lag when exploring.
 # 
 
 Notes from the team:

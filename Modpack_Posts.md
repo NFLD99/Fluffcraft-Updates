@@ -6,10 +6,10 @@
 - [The Fabric Project](<https://discord.gg/v6v4pMv>) - [Link to Channel](<https://ptb.discord.com/channels/507304429255393322/507982666755473427>)
 
 ### Reddit:
-- [r/feedthebeast - Fluffcraft Modpack [Fabric 1.20.1]](<https://www.reddit.com/r/feedthebeast/comments/1f6z20t/fluffcraft_modpack_fabric_1201/>)
-- [r/Minecraft - Fluffcraft Modpack [Fabric 1.20.1]](<https://www.reddit.com/r/Minecraft/comments/1f6z204/fluffcraft_modpack_fabric_1201/>)
-- [r/ModdedMC - Fluffcraft Modpack [Fabric 1.20.1]](<https://www.reddit.com/r/ModdedMC/comments/1f6z1zr/fluffcraft_modpack_fabric_1201/>)
-- [r/ModdedMinecraft - Fluffcraft Modpack [Fabric 1.20.1]](<https://www.reddit.com/r/ModdedMinecraft/comments/1f6z20h/fluffcraft_modpack_fabric_1201/>)
+- [r/feedthebeast - Fluffcraft Modpack [Fabric 1.20.1]](<https://www.reddit.com/r/feedthebeast/comments/1fbkkm0/fluffcraft_modpack_fabric_1201/>)
+- [r/Minecraft - Fluffcraft Modpack [Fabric 1.20.1]](<https://www.reddit.com/r/Minecraft/comments/1fbk53q/fluffcraft_modpack_fabric_1201/>)
+- [r/ModdedMC - Fluffcraft Modpack [Fabric 1.20.1]](<https://www.reddit.com/r/ModdedMC/comments/1fbk4z1/fluffcraft_modpack_fabric_1201/>)
+- [r/ModdedMinecraft - Fluffcraft Modpack [Fabric 1.20.1]](<https://www.reddit.com/r/ModdedMinecraft/comments/1fbk4ql/fluffcraft_modpack_fabric_1201/>)
 
 ### Mod Sites:
 - [CurseForge - Fluffcraft](<https://www.curseforge.com/minecraft/modpacks/fluffcraft>)

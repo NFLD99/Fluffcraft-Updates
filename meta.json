@@ -461,6 +461,26 @@
           "generic": "https://discord.gg/XYcxavNmfU"
         }
       }
+    },
+    {
+      "id": "1.1.37",
+      "releasedAt": 1725838200000,
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/fluffcraft",
+          "generic": "https://discord.gg/XYcxavNmfU"
+        }
+      }
+    },
+    {
+      "id": "1.1.38",
+      "releasedAt": 1725832360598,
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/fluffcraft",
+          "generic": "https://discord.gg/XYcxavNmfU"
+        }
+      }
     }
   ]
 }

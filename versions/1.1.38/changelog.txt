@@ -1,0 +1,9 @@
+# Version 1.1.38
+## Added:
+- Diagonal Walls
+- Diagonal Windows
+- Enhanced Cats
+## Updated:
+- Better Archeology
+- Moonlight Lib
+- WATERMeDIA
