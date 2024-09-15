@@ -1,0 +1,32 @@
+# Version 1.1.40
+## Added:
+- Autochef's Delight
+- Cat Loaf
+- Expanded Delight
+- Farmer's Delight Refabricated
+- More Mob Variants
+- Ocean's Delight
+- Random Mob Sizes
+- Storage Delight
+- The Archaic Artifacts Catalogue
+- WITS
+- Xaero's Minimap
+- Xaero's World Map
+- XaeroPlus
+- Complementary Reimagined r5.2.2
+## Removed:
+- Enhanced Cats
+- Foodables
+- JourneyMap
+- JourneyMap Integration
+- Complementary Shaders v4.3.2
+## Updated:
+- [EMF] Entity Model Features
+- [ETF] Entity Texture Features
+- Convenient Decor
+- Immersive Aircraft
+- Knight Quest
+- Oh The Biomes We've Gone
+- Polymorph
+- Simple Voice Chat
+- WATERFrAMES: Multimedia Displays
