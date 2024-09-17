@@ -30,7 +30,7 @@ Some highlights we'd like to share:
   - Organize your storage and improve travel with mods such as AE2, Kibe, Dark Utilities, Immersive Aircraft, Small Ships, and Moving Elevators.
 # 
 - **New Creatures:**
-  - Discover creatures from mods like Naturalist, Living Things, Mobs of Mythology, Reboot LovelyRobot, Fairy Factions Revived and Monsters & Girls.
+  - Discover creatures from mods like Naturalist, Reboot LovelyRobot, Fairy Factions Revived and Monsters & Girls.
 # 
 - **IceAndFire:**
   - Experience a fantasy like world filled with dragons, fairies, sirens, sea serpent's and more creatures to find, use lore from pages found in structures where dragons may be lurking to discover more about these creatures
@@ -45,7 +45,7 @@ Some highlights we'd like to share:
   - Discover new and powerful gear from mods like Dragonloot, Immersive Armors, Many More Ores, Simply Swords, and more.
 # 
 - **New Food & Drinks:**
-  - Enjoy a variety of new delicious food and drinks from mods like Farmer's Delight Refabricated, Better McDonald's Mod, 3D Placeable Food, and many others.
+  - Enjoy a variety of new delicious food and drinks from mods like Farmer's Delight Refabricated, 3D Placeable Food, and Croptopia.
 # 
 - **Enhanced Nether & End:**
   - Experience a refreshing Nether and End with new biomes, structures, and mobs.

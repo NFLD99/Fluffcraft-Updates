@@ -1,0 +1,32 @@
+# Version 1.1.41
+## Added:
+- Chirpy's Wildlife
+- Dark Loading Screen
+- Luki's Grand Capitals
+- More Delight
+- Nature's Delight
+- Nature's Spirit
+- Patchouli
+- Portable Mobs
+- Smarter Farmers
+- Sprinklerz
+- TerraBlenderFix
+- Tips
+- Wildlife Expanded: Skunk
+- Womp's Shellfish Mod
+## Removed:
+- Better McDonald's Mod
+- Living Things
+- Mobs of Mythology
+## Updated:
+- [EMF] Entity Model Features
+- Additional RPG Jewelry
+- AzureLib
+- AzureLib Armor
+- Cloth Config API
+- Deeper and Darker
+- Explorify – Dungeons & Structures
+- Moonlight Lib
+- More Delight
+- More RPG Library
+- Random Mob Sizes
