@@ -1,0 +1,25 @@
+# Version 1.1.42
+## Added:
+- KubeJS Additions
+## Updated:
+- [ETF] Entity Texture Features
+- Additional RPG Jewelry
+- AzureLib
+- AzureLib Armor
+- ChoiceTheorem's Overhauled Village
+- CreativeCore
+- Dramatic Doors
+- Fabric Language Kotlin
+- Knight Quest
+- Lithostitched
+- Moonlight Lib
+- More RPG Library
+- Motschen's Better Leaves
+- Oh The Biomes We've Gone
+- Polymorph 
+- Portable Mobs
+- Roughly Enough Items
+- Spell Engine
+- WATERFrAMES: Multimedia Displays
+- Womp's Shellfish Mod
+- XaeroPlus

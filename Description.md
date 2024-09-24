@@ -45,7 +45,7 @@ Some highlights we'd like to share:
   - Discover new and powerful gear from mods like Dragonloot, Immersive Armors, Many More Ores, Simply Swords, and more.
 # 
 - **New Food & Drinks:**
-  - Enjoy a variety of new delicious food and drinks from mods like Farmer's Delight Refabricated, 3D Placeable Food, and Croptopia.
+  - Enjoy a variety of new delicious food and drinks from mods like Farmer's Delight Refabricated, 3D Placeable Food, and Croptopia, and Custom ones we added!
 # 
 - **Enhanced Nether & End:**
   - Experience a refreshing Nether and End with new biomes, structures, and mobs.
