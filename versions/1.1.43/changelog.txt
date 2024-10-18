@@ -1,0 +1,94 @@
+# Version 1.1.43
+## Added:
+- Additional Blocks: Stone Edition
+- Additional Blocks: Vertical Edition
+- AdventureZ
+- Awesome Dungeon Nether edition
+- Awesome Dungeon The End edition
+- Blockus
+- Botany Pots
+- Botany Pots Tiers
+- Botany Trees
+- Botarium
+- Bygone Nether
+- Conquest:Hearthfire
+- Create Chunkloading
+- Create Crafts & Additions
+- Create Fabric
+- Create Ore Excavation
+- Create Questing
+- Create Slice & Dice
+- Create Utilities
+- Create: Bells & Whistles
+- Create: Crystal Clear
+- Create: Design n' Decor
+- Create: Estrogen
+- Create: Steam 'n' Rails
+- CreateFabric&REIBugFix
+- Fish Tanks
+- Knight Lib
+- KubeJS Create for Fabric
+- Log Begone
+- Mebahel's Antique Beasts
+- Mine Cells - Dead Cells Mod
+- Mine RGB
+- More Blocks
+- Mythic Mounts
+- Nyf's Genetics
+- Pig Pen Cipher
+- Rubinated Nether
+- Runelic
+- Runes
+- Straw Statues
+- Sundries
+- Uranus
+- Useless Reptile
+- Whisperwoods
+- YDM's Red Panda
+- YetAnotherConfigLib
+## Updated:
+- Additional RPG Jewelry
+- Amendments
+- Archon
+- AzureLib
+- AzureLib Armor
+- Chipped
+- ChoiceTheorem's Overhauled Village
+- Dark Utilities
+- Elytra Slot
+- Extra RPG Attributes
+- Fabric Language Kotlin
+- Framework
+- FTB Quests
+- Iris Shaders
+- Jade 🔍
+- Knight Quest
+- KubeJS Additions
+- Lithostitched
+- Moonlight Lib
+- More Delight
+- More RPG Library
+- Necronomicon API
+- Oh The Biomes We've Gone
+- Puzzles Lib
+- Random Mob Sizes
+- Roughly Enough Items
+- Simple Voice Chat
+- Spellblades and Such
+- Trade Cycling
+- Traveler's Backpack
+- WATERMeDIA: Multimedia API
+- Xaero's Minimap
+- XaeroPlus
+- Yung Structures Addon for Loot Integrations
+- YUNG's API
+## Removed
+- Advanced Xray
+- Dawn Of Time - Builder Edition
+- Eco Stack Manager
+- IceAndFire
+- Jupiter
+- Small Ships
+- YANDO's NPC Variety
+## Fabric Updates
+- Updated to 0.16.7
